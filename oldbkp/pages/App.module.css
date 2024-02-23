@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+.banner{
+    width: 100%;
+    height: 80%;
+    margin-top: 10px;
+}
+.banner_dois{
+    width: 35%;
+    height: 30%;
+}
+.banner_tres{
+    width: 35%;
+    height: 30%;
+    margin-left:20px;
+}
+.banner_qua{
+    width: 26%;
+    height: 10%;
+    margin-bottom:20px;
+    margin-left: 24px;
+}
+.banner_quint{
+    width: 26%;
+    height: 10%;
+    margin-top:-12%;
+    margin-bottom: 3%;
+}
+.barrapromo{
+    width:100%;
+    height: 25%;
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color:rgb(221, 221, 221);
+}
+.textTenis{
+    font-family: 'Dancing Script', cursive;
+    
+}
+.imagem_produto_View{
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+}
+.h1{
+    font-family:cursive;
+}
+.produto{
+     width:170px;
+     height: 25%;
+     align-items: center;
+     justify-content:center;
+     display: flex;
+     flex-direction: column;
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-right: 10px;
+     background-color: rgb(245, 242, 242);
+     border-radius: 10px;
+}
+.infoSite{
+    width:80%;
+    margin-left: 120px;
+    height: auto;
+    align-items: center;
+    justify-content: space-between;
+
+    display: flex;
+}
+.quemsomos{
+    width: 300px;
+    height: 90%;
+    background-color: rgb(167, 167, 167);
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    border-radius: 20px;
+}
+.imgproduto{
+    width:100%;
+    height: 100%;
+    border-radius: 10px;
+    
+}
+.catalogol1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.btnAddCar:hover{
+     width: 100px;
+     height: 40px;
+  }
+.btnAddCar{
+    background-color: black;
+    color: aliceblue;
+    border: 0;
+    width: -0;
+    height: 0;
+    border-radius: 20px;
+
+}
+.AbaCarrinho{
+    width:100px;
+    height: 100px;
+    background-color: rgb(18, 131, 230);
+    
+}
+.bottom{
+    width: 100%;
+    height: 200px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    border-top:1px solid gray;
+}
+.imgIcom{
+   width: 30px;
+   height: 30px; 
+}
+.imgIcomWhats{
+    width: 30px;
+    height: 20px; 
+}
+.bottomInfo{
+    width:20%;
+}
+.divalinred{
+    
+    flex-direction:row ;
+}
+.divRSocial{
+    display: flex;
+    margin-left: 50px;
+    flex-direction: row;
+}
+.txt{
+    color: black;
+    margin-left: 10px;
+    text-decoration: none;
+}
+.txtBotom{
+    margin-left: 20%;
+}

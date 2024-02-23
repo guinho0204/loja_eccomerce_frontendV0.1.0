@@ -1,0 +1,25 @@
+.centralize{
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+    display: flex;
+    margin-left: 30px;
+}
+.txt{
+    margin-top: 10px;
+    width:200px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    border: 1px solid gray;
+}
+
+.btn{
+   width:200px;
+   height: 40px;
+   border-radius: 20px;
+   margin-top: 10px;
+   border: 0;
+   background-color: #ee43a1;
+   
+}
